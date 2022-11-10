@@ -51,6 +51,24 @@
 <li>Continue cooking until brown on both sides.</li>
 </ol>
 
+<h1>Strawberry Milkshake</h1>
+<a href="recipes/strawberry_milkshake.html">Strawberry Milkshake</a>
+<h2>Description</h2>
+<p>Strawberries,strawberry ice-cream and milk blend together to reach a pink perfection.</p>
+<p>This milkshake takes great when chilled.</p>
+<h2>Ingredients</h2>
+<ul>
+<li>200 gram strawberries</li>
+<li>400 ml milk</li>
+<li>2 tbsp sugar</li>
+<li>5-6 tbsp strawberry ice-cream</li>
+</ul>
+<h2>Steps</h2>
+<ol>
+<li>Put the strawberries and sugar in a mixie,add a bitof milk and roughly puree it for just a few seconds.</li>
+<li>Now add the rest of the milk and start the mixing again for 15-20 seconds.</li>
+<li>Add the ice-cream and blend it all together into a thick shake.Serve chilled.</li>
+</ol>
 
 
 
