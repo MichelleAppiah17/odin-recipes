@@ -70,6 +70,12 @@
 <li>Add the ice-cream and blend it all together into a thick shake.Serve chilled.</li>
 </ol>
 
+<ul>
+  <li><a href="recipes/chicken_pizza.html">chicken pizza</a></li>
+  <li><a href="recipes/pancake.html">Pancake</a></li>
+  <li><a href="recipes/strawberry_milkshake.html">Strawberry Milkshake</a></li>
+  </ul>
+
 
 
 
