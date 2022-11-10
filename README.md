@@ -27,6 +27,29 @@
 <li>Bake for 10 minutes until the cheese has melted.Serve hot.</li>
 </ol>
 
+<h1>Pancake</h1>
+<a href="recipes/pancake.html">Pancake</a>
+<h2>Description</h2>
+<p>A pancake is a flat cake,often thin and round,prepared from a startch-based batter that may contain eggs,milk and butter and cooked on a hot surface such as frying pan,often frying with oil or butter.</p>
+<p>Pancakes can be served with sugar syrup and even more enjoyable when served with coffee for breakfast.</p>
+<h2>Ingredients</h2>
+<ul>
+<li>flour</li>
+<li>baking powder</li>
+<li>sugar</li>
+<li>salt</li>
+<li>milk</li>
+<li>butter</li>
+<li>egg</li>
+</ul>
+<h2>Steps</h2>
+<ol>
+<li>Sift the dry ingredients together(flour,baking powder,sugar,salt).</li>
+<li>Make a well, then add the wet ingredients(milk,butter,egg).Stir to combine.</li>
+<li>Scoop the batter onto a hot pan.</li>
+<li>Cook for two to three minutes,then flip.</li>
+<li>Continue cooking until brown on both sides.</li>
+</ol>
 
 
 
